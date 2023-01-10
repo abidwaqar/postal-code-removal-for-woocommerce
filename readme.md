@@ -8,13 +8,21 @@ This Is A Lightweight Plugin That Removes The Postal Code Field Present In The C
 ### Details
 
 Contributors: abidwaqar98
+
 Donate link: https://www.buymeacoffee.com/abidwaqar
+
 Tags: postal, code, removal, for, woocommerce, postcode, postalcode, postcoderemoval, postalcoderemoval, postalcoderemovalforwoocommerce, postcoderemovalforwoocommerce
+
 Requires at least: 4.7
+
 Tested up to: 5.4
+
 Stable tag: 4.3
+
 Requires PHP: 7.0
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 
@@ -35,11 +43,11 @@ Yes
 
 ##### This Screenshot Is Taken Before Activating This Plugin
 
-![screenshot-1](.\assets\screenshot-1.PNG)
+![screenshot-1](./assets/screenshot-1.PNG)
 
 ##### This Screenshot Is Taken After Activating This Plugin
 
-![screenshot-2](.\assets\screenshot-2.PNG)
+![screenshot-2](./assets/screenshot-2.PNG)
 
 
 
